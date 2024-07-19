@@ -6,6 +6,8 @@ Sign languages are complete communication systems, just like spoken languages. I
 
 The objective of this project is to develop a machine learning model that can detect a hand gesture and translate to an equivalent alphabet (ex: C, K, G..)
 
+Model deployed on: https://huggingface.co/spaces/akganesh/ISL
+
 ## Implementation Details
 
 - Dataset: Please check the Dataset details below
@@ -135,3 +137,7 @@ For any queries, please send an email (id on github profile)
 ## License
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
+
+## Screenshots
+
+![Logo](https://github.com/AKGanesh/Indian-Sign-Language-Prediction/blob/main/huggingfaceISL.png)
