@@ -141,3 +141,4 @@ For any queries, please send an email (id on github profile)
 ## Screenshots
 
 ![Logo](https://github.com/AKGanesh/Indian-Sign-Language-Prediction/blob/main/huggingfaceISL.png)
+![Logo](https://github.com/AKGanesh/Indian-Sign-Language-Prediction/blob/main/predict_proba.png)
